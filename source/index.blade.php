@@ -16,8 +16,8 @@
         <li><a href="gtm-standard/">Google Tag Manager Standard Trigger</a></li>
         <li><a href="gmt-dom-ready/">Google Tag Manager DOM Ready</a></li>
         <li><a href="gmt-window-loaded/">Google Tag Manager Window Loaded</a></li>
-        <li><a href="defer-gmt-dom-ready/">Google Tag Manager DOM Ready</a></li>
-        <li><a href="defer-gmt-window-loaded/">Google Tag Manager Window Loaded</a></li>
+        <li><a href="defer-gmt-dom-ready/">Defer Google Tag Manager DOM Ready</a></li>
+        <li><a href="defer-gmt-window-loaded/">Defer Google Tag Manager Window Loaded</a></li>
     </ul>
 
 </main>
