@@ -13,10 +13,11 @@
     <h2 class="text-3xl font-light text-black">Tests</h2>
     <ul>
         <li><a href="no-gtm/">No Google Tag Manager</a></li>
+        <li><a href="gtm-standard/">Google Tag Manager Standard Trigger</a></li>
         <li><a href="gmt-dom-ready/">Google Tag Manager DOM Ready</a></li>
-        <li><a href="gmt-window-ready/">Google Tag Manager Window Ready</a></li>
+        <li><a href="gmt-window-loaded/">Google Tag Manager Window Loaded</a></li>
         <li><a href="defer-gmt-dom-ready/">Google Tag Manager DOM Ready</a></li>
-        <li><a href="defer-gmt-window-ready/">Google Tag Manager Window Ready</a></li>
+        <li><a href="defer-gmt-window-loaded/">Google Tag Manager Window Loaded</a></li>
     </ul>
 
 </main>
